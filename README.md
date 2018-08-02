@@ -8,6 +8,6 @@ An example of sending encrypted message files utilizing the Laravel encryption c
 
         git clone https://github.com/mastashake08/laravel-encrypt.git
         cd laravel-encrypt
-          composer install
+        composer install
         npm install
         php artisan key:generate
